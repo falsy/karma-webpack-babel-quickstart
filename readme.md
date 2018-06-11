@@ -13,8 +13,14 @@ $ npm install
 ```
 $ npm test
 ```
+### 빌드
+$ npm run build
 
 ## Change log
+
+#### v0.1.1(180611)
+* add npm clean, build
+
 #### v0.1.0(180417)
-* 리드미 추가
+* add readme
 * init
